@@ -1,4 +1,4 @@
-package solving.programmers.Level2;
+package solving.baekjoon.programmers;
 import java.util.*;
 public class 게임_맵_최단거리 {
     class Solution {
